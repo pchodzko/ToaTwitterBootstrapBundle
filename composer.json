@@ -3,6 +3,7 @@
     "type": "symfony-bundle",
     "description": "Basic integration of Twitter Bootstrap into Symfony2",
     "keywords": ["code generation"],
+    "version": "2.1.x-dev",
     "license": "MIT",
     "authors": [
         {
@@ -16,9 +17,6 @@
     ],
     "require": {
         "sensio/generator-bundle": "dev-master"
-    },
-    "replace": {
-        "toa/twitter-bootstrap-sandbox-bundle": "dev-master"
     },
     "autoload": {
         "psr-0": { "Toa\\Bundle\\TwitterBootstrapBundle": "" }
