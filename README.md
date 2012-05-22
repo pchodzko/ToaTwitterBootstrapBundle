@@ -11,7 +11,7 @@ Add the package to the `composer.json` file and run `php composer.phar update`.
 	{
 	    "require": {
 	        // ...
-	        "toa/twitter-bootstrap-bundle": "2.1.x-dev"
+	        "toa/twitter-bootstrap-bundle": "dev-2.1.x-dev"
 	    }
 	}
 
